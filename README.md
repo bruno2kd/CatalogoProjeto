@@ -2,8 +2,6 @@
 
 This application is a Catalog for small fashion companies show their products online, eventually adding a payments system and frontend work it could turn into an online store. The application is written in python-flask.
 
-Udacity Nanodegree: Full Stack Web Developer.
-
 ## Purpose of the app:
 - The user can log in using a Google or Facebook account
 - The user can also sign up and login with a form in the app
